@@ -1,8 +1,16 @@
+/**
+ * Please see Chat Console documentation for full details on implement custom language file.
+ * - Edit this file with your custom language changes.
+ * - Host this file via HTTPS on your server.
+ * - Pass the URL to your hosted custom lang file as the `lang` options to Five9SocialWidget.addWidget()
+ */
+// eslint-disable-next-line no-undef
+
 chatLangCallback({
   "APPLICATION_TYPE": "Charla",
   "S_PAGE_TITLE": "Charla",
   "S_PROVIDER": "<span class='provider-text'>Provided by <span class='provider-five'>Five</span><span class='provider-nine'>9</span></span>",
-  "S_NO_NAME": "Me"
+  "S_NO_NAME": "Me",
   "S_INITIALIZATION_PAGE": {
     "S_CONTENT": "Inicialización..."
   },
